@@ -14,7 +14,7 @@
 * Auto proxy switching
 * Works on just 1–2 servers (ideal: 15K threads)
 
-## 🔧 We Also Provide:
+**🔧 We Also Provide:**
 * Unlimited proxy
 * Residential proxy ($1.5/GB)
 
